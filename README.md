@@ -1,20 +1,19 @@
 # Adnan Mubeen's Portfolio 🌟
 
-Hi! I'm **Adnan Mubeen**, a passionate **Full-Stack Developer** and founder of [Digi Mound](https://www.digimound.com). I specialize in building robust web applications, custom software solutions, and scalable platforms for businesses. With **6+ years of experience**, I love solving complex problems and delivering user-friendly digital experiences.
+Hi! I'm **Adnan Mubeen**, a passionate **Full-Stack Developer**. I specialize in building robust web applications, custom software solutions, and scalable platforms for businesses. With **6+ years of experience**, I love solving complex problems and delivering user-friendly digital experiences.
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🔭 **Current Role:** Sr. Software Developer at NuralTech
-- 🚀 **Founder:** [Digi Mound](https://yourwebsite.com)
 - 🌟 **Skills:**  
   - **Backend:** .NET, .NET Core, C#, RESTful APIs  
   - **Frontend:** React, HTML, CSS, Bootstrap, JavaScript, jQuery  
   - **Database:** MS SQL Server, MongoDB  
   - **DevOps & Tools:** Git, Docker, CI/CD Pipelines  
   - **Mobile:** Flutter (WebView Apps)  
-- 📫 **Contact Me:** [adnanmubeen@example.com](mailto:adnanmubeen@example.com) | [LinkedIn](https://linkedin.com/in/adnanmubeen) | [Portfolio](https://yourwebsite.com)
+- 📫 **Contact Me:** [adnanmubeen20@gmail.com](mailto:adnanmubeen20@gmail.com) | [LinkedIn](https://www.linkedin.com/in/adnan-mubeen) | [Portfolio](https://www.codewithadnan.in)
 
 ---
 
@@ -22,26 +21,20 @@ Hi! I'm **Adnan Mubeen**, a passionate **Full-Stack Developer** and founder of [
 
 ### 🛒 Multi-Vendor E-Commerce Platform
 A scalable platform allowing multiple vendors to showcase and sell their products with advanced features like analytics, vendor dashboards, and secure payment gateways.  
-[GitHub Repo](https://github.com/yourusername/project1) | [Live Demo](https://demo.com)
-
----
-
-### 🏥 Hospital Management System
-Comprehensive software to manage hospital operations, including patient records, appointments, billing, and reporting.  
-[GitHub Repo](https://github.com/yourusername/project2) | [Live Demo](https://demo.com)
+[Live Demo](https://shopzinn.com/)
 
 ---
 
 ### 📇 Digital Business Card App
 A digital alternative to traditional business cards with QR code integration and customizable templates.  
-[GitHub Repo](https://github.com/yourusername/project3) | [Live Demo](https://demo.com)
+[Live Demo](https://card.digimound.com/card.aspx?user=digimound)
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperAdnanMubeen&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAdnanMubeen&layout=compact&theme=radical)
 
 ---
 
@@ -67,8 +60,8 @@ A digital alternative to traditional business cards with QR code integration and
 ---
 
 ## 🤝 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/adnanmubeen)
-- 🌐 [Website](https://yourwebsite.com)
-- 📧 [Email](mailto:adnanmubeen@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adnan-mubeen)
+- 🌐 [Website](https://www.codewithadnan.in)
+- 📧 [Email](mailto:adnanmubeen20@gmail.com)
 
 ---
