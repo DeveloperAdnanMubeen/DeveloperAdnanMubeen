@@ -31,13 +31,6 @@ A digital alternative to traditional business cards with QR code integration and
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperAdnanMubeen&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAdnanMubeen&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Tools & Technologies
 
 ### Programming Languages
@@ -63,5 +56,12 @@ A digital alternative to traditional business cards with QR code integration and
 - 💼 [LinkedIn](https://www.linkedin.com/in/adnan-mubeen)
 - 🌐 [Website](https://www.codewithadnan.in)
 - 📧 [Email](mailto:adnanmubeen20@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeveloperAdnanMubeen&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperAdnanMubeen&layout=compact&theme=radical)
 
 ---
